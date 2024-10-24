@@ -1,0 +1,23 @@
+body {
+    background-color: gainsboro;
+    font-family: monospace;
+    color: darkslategray;
+    border-color: darkslategray;
+    text-align: center;
+}
+
+h1 {
+    font-size: max(4vw, 4em);
+}
+
+p {
+    font-size: max(1vw, 1em);
+}
+
+hr {
+    border: 1px solid darkslategray;
+}
+
+img {
+    border: 1px solid darkslategray;
+}
